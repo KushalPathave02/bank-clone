@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sbi-yono-clone",
+    "slug": "sbi-yono-clone",
+    "version": "1.0.0",
+    "android": {
+      "useCleartextTraffic": true
+    }
+  }
+}
